@@ -6,8 +6,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
+**JSONPlaceholder API**
+
+Used todo api https://jsonplaceholder.typicode.com/todos
+
+**Problem I'm Getting**
+JSONPlaceholder API providing same id when i add multiple data. Searched through internet and it says by default it only generates a single id which is 201.
+
+**Added Local Storage**
+
+**Runs On Localhost**
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
